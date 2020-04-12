@@ -1,3 +1,3 @@
 # learn-github
 
-- Rushabh
+- Rushabh Vasani
